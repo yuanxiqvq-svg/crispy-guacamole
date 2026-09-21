@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1790007278903,
+  "timestamp": 1790007285945,
   "appVersion": "6.9.80 (2026.09.18)",
   "tables": [
     "characters",
@@ -186,7 +186,9 @@
     "shopOrders": true,
     "shopData": true,
     "shopFulfillments": true,
-    "deliveryOrders": true
+    "deliveryOrders": true,
+    "deliveryData": true,
+    "chatVariables": true
   },
   "inProgress": true
 }
