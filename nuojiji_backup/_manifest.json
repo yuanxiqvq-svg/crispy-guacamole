@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1790009477541,
+  "timestamp": 1790009489822,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -102,8 +102,7 @@
   ],
   "chunkedTables": {
     "messages": 2,
-    "imageStore": 10,
-    "stickerStore": 4
+    "imageStore": 10
   },
   "completedTables": {
     "characters": true,
@@ -196,7 +195,8 @@
     "charBondSpaces": true,
     "charLifePlans": true,
     "_migration": true,
-    "stickers": true
+    "stickers": true,
+    "stickerStore": true
   },
   "source": "auto",
   "inProgress": true
