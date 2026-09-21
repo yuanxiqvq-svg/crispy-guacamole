@@ -1,7 +1,7 @@
 {
   "version": 6,
-  "timestamp": 1790007330990,
-  "appVersion": "6.9.80 (2026.09.18)",
+  "timestamp": 1790009150272,
+  "appVersion": "auto-backup",
   "tables": [
     "characters",
     "friendRequests",
@@ -198,8 +198,6 @@
     "charLifePlans": true,
     "_migration": true
   },
-  "skippedTables": [
-    "globalSettings"
-  ],
-  "inProgress": false
+  "source": "auto",
+  "inProgress": true
 }
