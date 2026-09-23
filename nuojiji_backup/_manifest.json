@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1790181130262,
+  "timestamp": 1790181137055,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -203,7 +203,6 @@
     "charBondSpaces": true,
     "charLifePlans": true,
     "_migration": true,
-    "stickers": true,
     "stickerStore": true,
     "studyTalks": true,
     "studyOutlines": true,
