@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1790125367630,
+  "timestamp": 1790171464228,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -82,6 +82,11 @@
     "coReadSessions",
     "coReadQuotes",
     "coReadTranslations",
+    "studyTalks",
+    "studyOutlines",
+    "studyQuizzes",
+    "studyGoals",
+    "studyExams",
     "naiVibeCache",
     "walletTransactions",
     "walletData",
@@ -90,6 +95,7 @@
     "shopFulfillments",
     "deliveryOrders",
     "deliveryData",
+    "deliveryBiz",
     "chatVariables",
     "plugins",
     "avatarFrames",
