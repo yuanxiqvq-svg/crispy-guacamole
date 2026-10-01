@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1790881107459,
+  "timestamp": 1790881115502,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -217,7 +217,8 @@
     "deliveryBiz": true,
     "studyCards": true,
     "stickers": true,
-    "forumItems": true
+    "forumItems": true,
+    "xinshengRounds": true
   },
   "source": "auto",
   "inProgress": true
