@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1790881090540,
+  "timestamp": 1790881099632,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -216,7 +216,8 @@
     "studyExams": true,
     "deliveryBiz": true,
     "studyCards": true,
-    "stickers": true
+    "stickers": true,
+    "forumItems": true
   },
   "source": "auto",
   "inProgress": true
