@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1790880899726,
+  "timestamp": 1790880914161,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -115,8 +115,7 @@
   ],
   "chunkedTables": {
     "messages": 3,
-    "imageStore": 32,
-    "stickers": 3
+    "imageStore": 32
   },
   "completedTables": {
     "characters": true,
@@ -216,7 +215,8 @@
     "studyGoals": true,
     "studyExams": true,
     "deliveryBiz": true,
-    "studyCards": true
+    "studyCards": true,
+    "stickers": true
   },
   "source": "auto",
   "inProgress": true
